@@ -1,0 +1,2 @@
+class CoverageeligibilityResponse < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class Policyeligibilitycheckresponse < ApplicationRecord
+end

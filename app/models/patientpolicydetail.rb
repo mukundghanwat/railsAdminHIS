@@ -1,0 +1,2 @@
+class Patientpolicydetail < ApplicationRecord
+end

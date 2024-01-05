@@ -1,0 +1,2 @@
+class Servicesmastermapping < ApplicationRecord
+end

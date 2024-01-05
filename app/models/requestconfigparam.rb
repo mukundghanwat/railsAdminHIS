@@ -1,0 +1,2 @@
+class Requestconfigparam < ApplicationRecord
+end

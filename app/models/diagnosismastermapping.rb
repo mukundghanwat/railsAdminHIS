@@ -1,0 +1,2 @@
+class Diagnosismastermapping < ApplicationRecord
+end

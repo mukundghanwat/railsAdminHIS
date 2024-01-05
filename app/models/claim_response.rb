@@ -1,0 +1,2 @@
+class ClaimResponse < ApplicationRecord
+end
